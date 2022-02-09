@@ -1,0 +1,10 @@
+
+Which Syntax method is correct?
+
+a) Public static void main (String[] args){};
+b) public static void main(String [] args){};
+c) public static void main(String () args)[];
+d) public static void main(String [] args){};
+
+Answer:
+d
