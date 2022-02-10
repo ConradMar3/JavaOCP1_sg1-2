@@ -1,7 +1,7 @@
 
 package ex05_1_exercise;
 
-public class ex05_1_exercise {
+public class ShoppingCart {
 
     public static void main(String[] args) {
         String custName = "Mary Smith";
