@@ -1,5 +1,5 @@
 
-package ex05_1_exercise;
+package ex05_01_exercise;
 
 public class ShoppingCart {
 

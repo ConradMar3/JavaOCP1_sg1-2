@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ex05_03_ShoppingCart;
+package ex_06_exercise01;
 
 /**
  *
  * @author Conrad
  */
-public class ShoppingCart {
+    public class ShoppingCart {
 
     public static void main(String[] args) {
         // local variables
