@@ -10,9 +10,9 @@ package Sg1_Chapter4;
  */
 public class String {
     public static void main(String[] args) {
-        String firstName = "Mary";
-        String lastName = "Hada";
-        String title = "LittleLambada";
+        java.lang.String firstName = "Mary";
+        java.lang.String lastName = "Hada";
+        java.lang.String title = "LittleLambada";
         
         System.out.println(firstName + lastName + title);
         
